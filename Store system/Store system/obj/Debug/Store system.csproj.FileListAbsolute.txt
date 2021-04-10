@@ -1,0 +1,7 @@
+C:\Users\firsp\source\repos\Store system\Store system\bin\Debug\Store system.exe.config
+C:\Users\firsp\source\repos\Store system\Store system\bin\Debug\Store system.exe
+C:\Users\firsp\source\repos\Store system\Store system\bin\Debug\Store system.pdb
+C:\Users\firsp\source\repos\Store system\Store system\obj\Debug\Store system.csprojAssemblyReference.cache
+C:\Users\firsp\source\repos\Store system\Store system\obj\Debug\Store system.csproj.CoreCompileInputs.cache
+C:\Users\firsp\source\repos\Store system\Store system\obj\Debug\Store system.exe
+C:\Users\firsp\source\repos\Store system\Store system\obj\Debug\Store system.pdb
